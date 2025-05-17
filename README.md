@@ -19,34 +19,55 @@ CREATE A Function that will take 2 parameters(v_code and v_state) and display Al
 
  ## Task 1:
  Query:
+ 
+![task 111](https://github.com/user-attachments/assets/7c4859ba-7ba5-44c2-9666-2db1d1ec17a0)
 
 
  Table:
+
+![table 111](https://github.com/user-attachments/assets/4568274b-3753-48a9-9bcc-f8fbca9aa126)
 
 
  Task 2:
 Query:
 
+![task 222](https://github.com/user-attachments/assets/27da8f1d-1913-4899-889f-cddae0528988)
+
 
 Table:
+
+![table 222](https://github.com/user-attachments/assets/fb01df15-152f-4c09-b998-bccfa9b249d6)
 
 
 Task 3:
 Query
 
+![task 333](https://github.com/user-attachments/assets/4cbe9f78-3d0d-431e-bd70-4cbb62effd55)
+
 
 Table:
+
+![table 333](https://github.com/user-attachments/assets/2f704f2f-d06c-47c8-9b4e-38b5871e1dbd)
 
 
 Task 4:
 Query:
 
+![table 444](https://github.com/user-attachments/assets/f23928dd-afbb-4d04-b3ff-f38768a390cf)
+
 
 Table
+
+![table 4444](https://github.com/user-attachments/assets/cf7824cf-7a8f-492c-a242-0ed833ca9bd5)
 
 
 Task 5:
 Query:
 
+![table 555](https://github.com/user-attachments/assets/6a7b52a5-dce8-47ab-9c5d-3328a7fead3a)
+
 
 Table
+
+![table  6666](https://github.com/user-attachments/assets/f8d3d117-38e2-4dab-822e-bc31c45192b0)
+
